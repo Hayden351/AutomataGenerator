@@ -1,0 +1,20 @@
+A state machine is a five-tuple
+1) a set of states 
+2) an initial state
+3) a set of final states
+4) a set of characters that denote an input alphabet
+5) a set of transitions that map a set of states and a set of
+   characters to a set of states
+
+Auxiliary component
+A map from state numbers to enumerated type values
+
+
+A state machine definition and an int to enum map is sufficient to define a
+state machine
+
+
+
+
+12/11/2017: i'm not sure if it makes sense to have a set of states
+            be a set of sets. 

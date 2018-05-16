@@ -1,0 +1,21 @@
+Plans
+
+Make a list of settings
+Output to standard out or location
+Integers or Enumerated types to denotes states
+Stack or no stack
+output to other programming languages
+
+
+Settings as input
+list of settings
+string of settings (0 1)~(2 1)~(3 34) tuples of options and setting numbers
+string of settings (loc 1)~(enum 1)~(stack 1) integers or 
+numbers or words to represent settings
+
+
+
+much later
+into state operations and out of state operations
+
+
